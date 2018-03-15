@@ -1,0 +1,9 @@
+name: iclr2018-analysis
+channels:
+- defaults
+dependencies:
+  - python>=3.6
+  - matplotlib
+  - seaborn
+  - pandas
+  - jupyter
